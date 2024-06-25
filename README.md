@@ -30,5 +30,5 @@ Tes membuat server dan API dari data excel telah selesai
 
 
 ## test-case-4
-Tes membuat angka acak (selain menggunakan bubble-sort) telah selesai
+Tes membuat sorting (selain menggunakan bubble-sort) telah selesai
  
