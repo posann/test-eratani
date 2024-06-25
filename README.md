@@ -1,15 +1,18 @@
 # TEST-ERATANI
+- Ahmad Fauzan
+- achmd.fznn@gmail.com
+- https://posann.vercel.app
 
 ## test-case-1
-Tes Polycarp telah selesai
+Tes Polycarp telah selesai <br/>
 https://github.com/posann/test-eratani/blob/main/test-case-1/
 
 ## test-case-2
-Tes Palindrome telah selesai
+Tes Palindrome telah selesai <br/>
 https://github.com/posann/test-eratani/blob/main/test-case-2/
 
 ## test-case-3
-Tes membuat server dan API dari data excel telah selesai
+Tes membuat server dan API dari data excel telah selesai <br/>
 https://github.com/posann/test-eratani/blob/main/test-case-3/
 
 ### tools
