@@ -2,12 +2,15 @@
 
 ## test-case-1
 Tes Polycarp telah selesai
+https://github.com/posann/test-eratani/blob/main/test-case-1/
 
 ## test-case-2
 Tes Palindrome telah selesai
+https://github.com/posann/test-eratani/blob/main/test-case-2/
 
 ## test-case-3
 Tes membuat server dan API dari data excel telah selesai
+https://github.com/posann/test-eratani/blob/main/test-case-3/
 
 ### tools
 - Javascript
@@ -31,4 +34,6 @@ Tes membuat server dan API dari data excel telah selesai
 
 ## test-case-4
 Tes membuat sorting (selain menggunakan bubble-sort) telah selesai
+https://github.com/posann/test-eratani/blob/main/test-case-4/
+
  
